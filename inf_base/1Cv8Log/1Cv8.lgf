@@ -1,0 +1,27 @@
+﻿1CV8LOG(ver 2.0)
+a6e20409-c7e2-46fa-8f96-bd05f3a1ff64
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"DESKTOP-0T7DTUD",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.DBConfigUpdate",5},
+{3,"1CV8C",2},
+{4,"_$Session$_.Finish",6},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.Update",8},
+{5,065c317e-0b26-45a7-87a3-4347e6444d04,"Константа.НазваниеОрганизации",1},
+{4,"_$Transaction$_.Commit",9},
+{5,469b85e6-88e6-461c-a267-bdf339925df4,"Константа.ИНН_Организации",2},
+{5,4c2e9502-150c-46bd-bc14-2369b9405337,"Константа.ГенеральныйДиректор",3},
+{4,"_$InfoBase$_.PredefinedDataUpdate",10},
+{5,4e76e263-b1fe-4bef-be52-730745bd2c5d,"",4},
+{3,"BackgroundJob",3},
+{4,"_$Data$_.New",11},
+{5,4e76e263-b1fe-4bef-be52-730745bd2c5d,"Справочник.Номенклатура",4},
+{4,"_$Data$_.Delete",12},
+{4,"_$Transaction$_.Rollback",13}
